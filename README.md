@@ -1,6 +1,6 @@
 # Hi, I'm LOUNES Nouha 
 
-3rd year Computer Science Engineering student at ESI Algeria
+3rd year Computer Science Engineering student at ESI Algiers
 
 I'm passionate about web development and software engineering. I enjoy building full-stack applications and I'm currently strengthening my backend development skills.
 
