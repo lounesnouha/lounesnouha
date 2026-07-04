@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm LOUNES Nouha 
 
-<!--
-**lounesnouha/lounesnouha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year Computer Science Engineering student at ESI Algeria
 
-Here are some ideas to get you started:
+I'm passionate about web development and software engineering. I enjoy building full-stack applications and I'm currently strengthening my backend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- TypeScript 
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- MySQL
+- Currently learning backend architecture
+
+### Tools
+- Git
+- GitHub
+
+## Featured Projects
+
+### LMCS Supervision Platform
+A full-stack platform for managing laboratory supervisions.
+
+**Tech Stack**
+- React
+- Node.js
+- Express
+- MySQL
+- Tailwind CSS
+
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/lounes-nouha/
+- Email: on_lounes@esi.dz
